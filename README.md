@@ -1,0 +1,2 @@
+# python_basic
+Pythonの基本コードなど記録するリポジトリ
